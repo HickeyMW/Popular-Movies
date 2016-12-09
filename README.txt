@@ -1,0 +1,1 @@
+The location for themoviedb.org api key is the top of the NetworkUtils class

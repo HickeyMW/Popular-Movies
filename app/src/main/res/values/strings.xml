@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Popular Movies</string>
+    <string name="most_popular_movies">Most Popular Movies</string>
+    <string name="highest_rated_movies">Highest Rated Movies</string>
+    <string name="movie_details">Movie Details</string>
+    <string name="no_internet_message">No internet connection detected</string>
+    <string name="error_loading_data">There was an error loading the data</string>
+    <string name="view_my_favorites">View my favorites</string>
+    <string name="view_highest_rated">View highest rated</string>
+    <string name="view_most_popular">View most popular</string>
+    <string name="add_to_favorites">Add to favorites</string>
+    <string name="remove_from_favorites">Remove from favorites</string>
+    <string name="my_favorites">My favorites</string>
+    <string name="no_favorites_message">There are no favorite movies to display</string>
+</resources>
